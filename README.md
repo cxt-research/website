@@ -1,6 +1,6 @@
 # website
 
-CXT Research Website
+Cenetex Research Website
 
 # Test
     
@@ -20,7 +20,7 @@ CXT Research Website
 
 On a deployment target run
 
-    npm install @cxt/website
+    npm install @cenetex/website
 
 # Run
 
